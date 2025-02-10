@@ -1,6 +1,6 @@
 # PseudoPalisadesMultiphase
 
-Welcome to this GitHub repository, which houses the code corresponding to the paper titled "Deciphering Oxygen Distribution and Hypoxia Profiles in the Tumor Microenvironment: A Data-Driven Mechanistic Modeling Approach", DOI: https://www.aimspress.com/article/doi/10.3934/mine.2022049, and Chapter 4 of the thesis titled "Diss_Kumar_Pawan.pdf" present in the parent directory, available at https://kluedo.ub.rptu.de/frontdoor/index/index/docId/6573.
+Welcome to this GitHub repository, which houses the code corresponding to the paper titled "Multiphase modelling of glioma pseudopalisading under acidosis", DOI: https://www.aimspress.com/article/doi/10.3934/mine.2022049, and Chapter 4 of the thesis titled "Diss_Kumar_Pawan.pdf" present in the parent directory, available at https://kluedo.ub.rptu.de/frontdoor/index/index/docId/6573.
 
 ## Key Features
 

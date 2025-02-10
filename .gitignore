@@ -1,0 +1,44 @@
+# MATLAB files
+*.asv
+*.m~
+*.mlx
+*.mat
+*.fig
+*.mex*
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Backup files
+*~
+*.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.swp
+*.swo
+*.idea/
+.vscode/
+*.code-workspace
+
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Build files
+build/
+dist/
+*.egg-info/
+# Image files
+*.png
+
+# Video files
+*.mp4

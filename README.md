@@ -18,7 +18,7 @@ This directory contains the codes and results for the figures 4.10 in the thesis
 - `main_nondim.m`: Main script for 1D simulations
 - `MPM_1D_nondim.avi` and `MPM_1D_nondim.mp4`: Video results
 - `Plots_pattern/`: Directory for plot results
-- `readme.txt`: Detailed description of the scripts and methods used
+- `readme.md`: Detailed description of the scripts and methods used
 
 ### 2D_nondim
 This directory contains the codes and results for the figures 4.1-4.9 in the thesis. It includes:
@@ -26,7 +26,7 @@ This directory contains the codes and results for the figures 4.1-4.9 in the the
 - `main_2D.m` and `main_2D_III.m`: Main scripts for 2D simulations
 - `compare_chi_three_occ.m`, `compare_K_equal.m`, etc.: Scripts for specific comparisons and computations
 - `Plots_diff_chi_double/`, `Plots_diff_chi_zero/`, `Plots_diff_K_equal_I/`, `Plots_diff_K_equal_II/`: Directories for plot results
-- `readme.txt`: Detailed description of the scripts and methods used
+- `readme.md`: Detailed description of the scripts and methods used
 
 ### main_all_chap4.m
 This script runs all the main files involved to produce the above-mentioned simulation results (included in Chapter 4 of the thesis).
